@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ibrahim Al-Zailah
+# 👋 Hi, I'm Ibrahim Al-Zailah
 
 ### Software Engineer | Frontend Developer
 
