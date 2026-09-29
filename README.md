@@ -1,57 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Al-Zailah</h1>
-<h3 align="center">Software Engineer | Frontend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimAlzilah&label=Profile%20views&color=0e75b6&style=flat" alt="IbrahimAlzilah" />
-</p>
+# 👋 Hey, I'm Ibrahim Al-Zailah
 
-- 🔭 I'm currently working on a **Logistics Management System** and a **Multi-Store Pharmacy Marketplace** at **Data Trans**
-- 🌱 Building scalable, type-safe web apps with **Next.js, React.js & TypeScript**
-- 💼 4+ years of experience delivering dynamic, performance-driven web applications
-- 📫 Reach me at **ibrahimalaqel33@gmail.com**
-- 📍 Based in Sana'a, Yemen
+### Software Engineer | Frontend Developer
+
+I build fast, scalable, and user-focused web applications with modern frontend technologies.
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 About Me
 
-**Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- 💻 Frontend Developer with **4+ years** of experience building dynamic, scalable web apps
+- 🌐 Specialized in **Next.js**, **React.js**, **TypeScript**, and **Vue.js**
+- 🏥 Currently building logistics & marketplace platforms at **Data Trans**, supporting **Saned Health**
+- 🎯 Focused on performance, clean architecture, and delightful UX
+- 🌱 Always learning and adapting to emerging technologies
 
-**State Management**
-![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=flat-square)
-![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
+---
 
-**Backend**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🛠️ My Favorite Stack
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Also working with:** Laravel · PHP · MySQL · Redux Toolkit · Zustand · Pinia · Docker
+
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 [Graduation Project Management System](https://github.com/IbrahimAlzilah/gpms-app)**
+Responsive multi-language (i18n) web app with OAuth2 authentication and API integration.
+`React` `Tailwind CSS` `Material UI`
+
+</td>
+<td width="50%">
+
+**💼 [Forsa Job Portal](https://github.com/IbrahimAlzilah/forsa-jobs)**
+Full-stack job portal connecting job seekers with employers.
+`PHP` `MySQL` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlzilah&show_icons=true&theme=dark&hide_border=true" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlzilah&theme=dark&hide_border=true" alt="streak" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlzilah&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlzilah&theme=radical&hide_border=true" width="48%" alt="streak"/>
+
+</div>
 
 ---
 
-### 🌐 Connect with me
+### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-al-zilah-105a20239)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahimalaqel33@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967774113398)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-al-zilah-105a20239)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimalaqel33@gmail.com)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IbrahimAlzilah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</div>
