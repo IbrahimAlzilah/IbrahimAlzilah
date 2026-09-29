@@ -32,29 +32,6 @@ I build fast, scalable, and user-focused web applications with modern frontend t
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 [Graduation Project Management System](https://github.com/IbrahimAlzilah/gpms-app)**
-Responsive multi-language (i18n) web app with OAuth2 authentication and API integration.
-`React` `Tailwind CSS` `Material UI`
-
-</td>
-<td width="50%">
-
-**💼 [Forsa Job Portal](https://github.com/IbrahimAlzilah/forsa-jobs)**
-Full-stack job portal connecting job seekers with employers.
-`PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
